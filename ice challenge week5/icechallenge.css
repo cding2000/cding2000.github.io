@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+
+}
+.image{
+    width: 100%;
+}
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: -10px;
+    place-items: center;
+    height: 400px;
+    background-color: #737373;
+}
+
+section img{
+    border-radius: 50%;
+    border: 15px solid black;
+    width: 300px;
+    height: 300px;
+}
+
