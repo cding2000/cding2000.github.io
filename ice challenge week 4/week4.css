@@ -1,0 +1,33 @@
+body{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h1:hover{
+    color: black;
+    transition: 0.2s;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+.name {
+    font-weight: 700;
+    color: white;
+}
+
+.white{
+    color: white;
+}
+.four_list{
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    font-weight: 700;
+}
